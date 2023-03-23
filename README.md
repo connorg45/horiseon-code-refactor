@@ -20,5 +20,8 @@ Please refer to the LICENSE in the repo.
 
 ![webpage preview](assets/images/horiseon-webpage-preview.png)
 
-# Deployed Website
+# Links
+
 [Deployed Website](https://connorg45.github.io/horiseon-code-refactor/)
+
+[Github Repo](https://github.com/connorg45/horiseon-code-refactor)
