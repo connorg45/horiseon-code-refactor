@@ -19,3 +19,6 @@ Please refer to the LICENSE in the repo.
 ## Webpage Preview
 
 ![webpage preview](assets/images/horiseon-webpage-preview.png)
+
+# Deployed Website
+[deployed website](https://connorg45.github.io/horiseon-code-refactor/)
